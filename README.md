@@ -5,4 +5,4 @@ Kaikong Chatbot is the chatbot project in CAIC1
 
 I use DialogFlow and use in Line Platform
 
-# You can try it by SCAN this QR code
+# You can try it by Add This ID @lsm8010p
